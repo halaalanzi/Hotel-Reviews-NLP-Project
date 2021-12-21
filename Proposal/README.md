@@ -12,7 +12,6 @@ The **goal** of this project is to build unsupervised Natural Language Processin
 ## Data Description
 - We used a dataset of Hotel Reviews from Kaggle website [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe)
 - The dataset consists of 17 terms and 515,738 documents.
--
 
 Below is a description of the features: 
 
