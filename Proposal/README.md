@@ -1,19 +1,18 @@
-# Cardiovascular Disease Prediction.
+# Hotel Reviews for Sentiment Analysis.
 
 <p align="center" width="100%">
-<img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" />
+<img src="https://www.revinate.com/wp-content/themes/revinate-sage/resources/assets/images/product-desc/_guest-feedback-reputation.png" />
 </p>
 
-## Introduction
-Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
+## Overview
+Reviews on websites as simple it sounds; but it has a significant impact on how tourists choose their accommodation. It is vital for hotels to have reputation for quality and it would work as trustable verification for the hotel quality. A recent Barclays study showed there is potential of an extra £3.2 billion, by just paying more attention to online reviews. The dataset that was collected from Booking.com.
 
-
-## Purpose:
-The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
-
+The **goal** of this project is to build unsupervised Natural Language Processing (NLP) machine learning models that decide whether a text review is positive review or negative review. This project, will help hotels to determine the category of text review and cluster them automaticity to improve their services
 
 ## Data Description
-The dataset consists of 13 features and 70,000 observations.
+- We used a dataset of Hotel Reviews from Kaggle website [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe)
+- The dataset consists of 17 terms and 515,738 documents.
+-
 
 Below is a description of the features: 
 
@@ -41,10 +40,7 @@ Below is a description of the features:
 
 
 ## Algorithms
-- 
-- 
-- 
-- 
+- NLP (Natural Language Processing)
 
 ## Tools
 - Libraries: 
@@ -54,6 +50,7 @@ matplotlib,
 seaborn, 
 sklearn,
 nltk,
+textblob,
 re.
 
 - Softwares: 
@@ -61,9 +58,6 @@ GitHub,
 Jupyter,
 Zoom,
 PowerPoint.
-    
-## Source
-From Kaggle website [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe)
 
 # Authors
 [@halaalanzi](https://github.com/halaalanzi)
@@ -74,7 +68,7 @@ From Kaggle website [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-
 
 [@yaqeen11](https://github.com/yaqeen11)
 
-[@]()
+[@sii78](https://github.com/sii78)
 
 Project at SDAIA Academy
 
