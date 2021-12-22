@@ -39,7 +39,9 @@ Below is a description of the features:
 
 
 ## Algorithms
-- NLP (Natural Language Processing)
+- NLP (Natural Language Processing).
+- Topic Modeling.
+- Clustering.
 
 ## Tools
 - Libraries: 
