@@ -1,6 +1,6 @@
 # Hotel Reviews for Sentiment Analysis.
 
-## Overview
+## Overview :
 
 The target of this project is to establish unsupervised natural language processing (NLP) machine learning models to determine whether a text review is positive review or negative review. This project will help hotels categorize the reviews and cluster them automaticity to improve their services .
 
