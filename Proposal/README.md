@@ -42,6 +42,8 @@ Below is a description of the features:
 - NLP (Natural Language Processing).
 - Topic Modeling.
 - Clustering.
+- Recommndation System.
+- supervised learning.
 
 ## Tools
 - Libraries: 
